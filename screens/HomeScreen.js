@@ -28,7 +28,7 @@ const HomeScreen = ({ navigation }) => {
       id: '3',
       title: 'Morskie Oko',
       description: 'Najpiękniejsze jezioro w Tatrach',
-      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Morskie_Oko_%28Tatry%2C_Polska%29_2.jpg/1200px-Morskie_Oko_%28Tatry%2C_Polska%29_2.jpg',
+      image: 'https://www.zakopane.pl/assets/zakopane25/media/files/a88a8add-8e3e-442c-b97c-1d8ee59a8f78/morskie-oko-lato-panorama-w2-pom-1.jpg',
     },
   ];
 
