@@ -7,7 +7,7 @@ import Saved from './pages/Saved';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/explorer-app">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/map" element={<Map />} />
